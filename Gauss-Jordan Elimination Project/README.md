@@ -1,0 +1,1 @@
+Code for MATH235 Applied Matrix Techniques, to convert input matrix to Reduced Row Echelon Form.

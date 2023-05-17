@@ -1,0 +1,5 @@
+Code written during Summer 2022. Project goals were to decrease computation time for a Leave-One-Out-Cross-Validation analysis, then use data from a LOOCV analysis on a large dataset to determine optimal thresholds for an trademark violationd detection algorithm. 
+
+Efficient LOOCV was written to run in conjunction with functions written by collaborators at DePaul University but heavily modified by myself. The script utilizes performance-oriented data compression and multithreading to decrease computation time on availible hardware from an estimated 3,000 hours to 24 hours.
+
+Find Thresholds utilizes data from a LOOCV analysis on a large dataset in conjunction with user-provided pairs of trademark infringing logos to determine ML thresholds which minimize false positive identifications while flagging 100% of infringing comparisons for review.

@@ -1,0 +1,1 @@
+Notebook for PHYS304 Electrostatics, to model electic potential due to a charge in a box.

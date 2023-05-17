@@ -1,0 +1,1 @@
+Notebook for PHYS301 Intermediate Classical Mechanics, to model trajectory of object launched, affected by drag and gravity.
